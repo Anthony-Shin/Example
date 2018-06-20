@@ -1,0 +1,4 @@
+#include <stdio.h>
+int main(int argr, char **argr{
+	return 0;
+}
