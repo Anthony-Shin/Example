@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include<sysexits.h>
+#include "usage.practice.txt"
+
+int main(int argc, char **argv){
+	
+	int a = 123;
+	int b = 24545;
+	
+	return 0;
+}
